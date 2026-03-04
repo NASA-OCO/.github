@@ -6,3 +6,5 @@ For addtional information about the OCO missions, visit the following links:
 
 - [OCO-2 Website](https://ocov2.jpl.nasa.gov)
 - [OCO-3 Website](https://ocov3.jpl.nasa.gov)
+- [OCO-2 Data](https://search.earthdata.nasa.gov/search?fi=OCO-2)
+- [OCO-3 Data](https://search.earthdata.nasa.gov/search?fi=OCO-3)
